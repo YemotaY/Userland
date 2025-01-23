@@ -2,5 +2,5 @@
 Collection of android userland tools
 
 ## Docker 
-chmod +x install_docker_userland.sh
-./install_docker_userland.sh
+1. chmod +x install_docker_userland.sh
+2. ./install_docker_userland.sh
